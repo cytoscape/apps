@@ -1,39 +1,39 @@
 [submodule "biopax"]
 	path = biopax
-	url = git@github.com:cytoscape/biopax.git
+	url = git://github.com/cytoscape/biopax.git
 [submodule "command-dialog"]
 	path = command-dialog
-	url = git@github.com:cytoscape/command-dialog.git
+	url = git://github.com/cytoscape/command-dialog.git
 [submodule "welcome"]
 	path = welcome
-	url = git@github.com:cytoscape/welcome.git
+	url = git://github.com/cytoscape/welcome.git
 [submodule "datasource-biogrid"]
 	path = datasource-biogrid
-	url = git@github.com:cytoscape/datasource-biogrid.git
+	url = git://github.com/cytoscape/datasource-biogrid.git
 [submodule "network-analyzer"]
 	path = network-analyzer
-	url = git@github.com:cytoscape/network-analyzer.git
+	url = git://github.com/cytoscape/network-analyzer.git
 [submodule "network-merge"]
 	path = network-merge
-	url = git@github.com:cytoscape/network-merge.git
+	url = git://github.com/cytoscape/network-merge.git
 [submodule "psi-mi"]
 	path = psi-mi
-	url = git@github.com:cytoscape/psi-mi.git
+	url = git://github.com/cytoscape/psi-mi.git
 [submodule "sbml"]
 	path = sbml
-	url = git@github.com:cytoscape/sbml.git
+	url = git://github.com/cytoscape/sbml.git
 [submodule "webservice-biomart-client"]
 	path = webservice-biomart-client
-	url = git@github.com:cytoscape/webservice-biomart-client.git
+	url = git://github.com/cytoscape/webservice-biomart-client.git
 [submodule "webservice-psicquic-client"]
 	path = webservice-psicquic-client
-	url = git@github.com:cytoscape/webservice-psicquic-client.git
+	url = git://github.com/cytoscape/webservice-psicquic-client.git
 [submodule "cyREST"]
 	path = cyREST
-	url = git@github.com:cytoscape/cyREST.git
+	url = git://github.com/cytoscape/cyREST.git
 [submodule "opencl-cycl"]
 	path = opencl-cycl
-	url = git@github.com:cytoscape/opencl-cycl.git
+	url = git://github.com/cytoscape/opencl-cycl.git
 [submodule "opencl-layout"]
 	path = opencl-layout
-	url = git@github.com:cytoscape/opencl-layout.git
+	url = git://github.com/cytoscape/opencl-layout.git
